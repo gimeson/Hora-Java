@@ -2,6 +2,8 @@ package javaapplication1;
 
 import java.util.Scanner;
 
+// emerson da silva oliveira
+
 public class Hora {
     private int hora;
     private int min;
